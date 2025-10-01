@@ -1,7 +1,7 @@
 Se presentan los apuntes que señalan las referencias originales a ser consultadas por cada tema.
 
 # Parte 1
-
+Se encuentra en [un archivo comprimido para descargar](PrimeraParte.zip).
 
 # Parte 2
 
