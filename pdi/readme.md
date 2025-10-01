@@ -1,3 +1,6 @@
+Procesamiento digital de imágenes (PDI)  
+Apuntes de clase
+
 Se presentan los apuntes que señalan las referencias originales a ser consultadas por cada tema.
 
 # Parte 1
