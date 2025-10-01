@@ -1,12 +1,12 @@
-Procesamiento digital de imágenes (PDI)  
+# Procesamiento digital de imágenes (PDI)  
 Apuntes de clase
 
 Se presentan los apuntes que señalan las referencias originales a ser consultadas por cada tema.
 
-# Parte 1
+## Parte 1
 Las unidades de la 1 a la 4 se encuentra en [un archivo comprimido para descargar](PrimeraParte.zip).
 
-# Parte 2
+## Parte 2
 
 En esta parte se muestran los apuntes de las unidades de la 5 a la 9
 
